@@ -1,3 +1,5 @@
 demo
 test
 exp
+sword
+shield
