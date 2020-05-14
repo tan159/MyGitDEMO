@@ -1,0 +1,6 @@
+light
+dark
+flame
+aqua
+forest
+void
