@@ -2,7 +2,3 @@ demo
 test
 exp
 sword
-shield
-saber
-archer
-lancer
