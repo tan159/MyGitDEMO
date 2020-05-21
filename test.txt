@@ -3,6 +3,3 @@ def
 ghi
 jkl
 mno
-prs
-tuv
-wyz
