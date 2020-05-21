@@ -5,7 +5,3 @@ sword
 shield
 saber
 archer
-lancer
-dreamer
-weaver
-dancer
